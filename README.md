@@ -34,4 +34,4 @@ It highlights my journey as an aspiring **Software Developer** with skills in we
 ---
 
 ### 📌 License
-© 2025 Pakiso Mokhethi. All rights reserved.
+© 2026 Pakiso Mokhethi. All rights reserved.
