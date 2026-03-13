@@ -827,6 +827,7 @@ body {
     border: 2px dashed var(--border-color);
     border-radius: 8px;
     height: 300px;
+    width: 525px;
     display: flex;
     align-items: center;
     justify-content: center;
