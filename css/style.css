@@ -6,7 +6,7 @@
 }
 
 :root {
-    --primary-color: #ea580c; /* Dark orange accent color */
+    --primary-color: #ea580c;
     --primary-dark: #c2410c;
     --primary-light: #fdba74;
     --secondary-color: #94a3b8;
@@ -61,7 +61,7 @@ body {
 .nav-logo a {
     font-size: 1.5rem;
     font-weight: 800;
-    color: var(--primary-color); /* Dark orange name */
+    color: var(--primary-color);
     text-decoration: none;
     text-shadow: 0 0 10px rgba(234, 88, 12, 0.3);
 }
